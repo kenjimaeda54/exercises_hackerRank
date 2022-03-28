@@ -3,9 +3,7 @@
 #Print the characters from thirteenth position to the end. 
 
 
-
-
-cat ~/Documents/exericios-hackerRank/src/text_processing/database/segund_repo.txt| cut -b 13-
+cat ~/Documents/exercises_hackerRank/src/text_processing/database/secund_repo.txt| cut -b 13-
 
 
 
